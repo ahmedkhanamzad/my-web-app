@@ -1,0 +1,7 @@
+{
+  "name": "GuardianDrive IoT",
+  "description": "ESP32-based IoT Accident Detection and Emergency Alert System with real-time vehicle telemetry and GPS tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
